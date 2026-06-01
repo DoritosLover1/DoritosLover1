@@ -47,8 +47,8 @@ I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a str
 
 ## 📜 Certificates
 
-* CISCO Certificates => Cyber Security Associate
-* Udemy => C++, Java, Python
+* CISCO: Cyber Security Associate
+* Udemy: C++, Java, Python
 
 ## ⚡ Fun Fact
 
