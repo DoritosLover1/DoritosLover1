@@ -32,6 +32,9 @@ I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a str
 * Bootstrap
 * Tailwind
 * Git & GitHub
+* AWS
+* Docker
+* Kubernetes
 
 ## 📌 Projects
 
@@ -41,6 +44,11 @@ I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a str
 * Secure Authentication Applications
 * Experimental Game Development Projects
 * ISPARK Mobile Application for School Project
+
+## 📜 Certificates
+
+* CISCO Certificates => Cyber Security Associate
+* Udemy => C++, Java, Python
 
 ## ⚡ Fun Fact
 
