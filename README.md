@@ -20,14 +20,17 @@ I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a str
 
 ## 🛠️ Technologies
 
+* C++
 * Java
+* Flutter
 * JavaScript
 * React
 * Node.js
-* Express
 * MySQL
+* TSQL
 * JWT
 * Bootstrap
+* Tailwind
 * Git & GitHub
 
 ## 📌 Projects
@@ -37,6 +40,7 @@ I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a str
 * Personal Portfolio Website
 * Secure Authentication Applications
 * Experimental Game Development Projects
+* ISPARK Mobile Application for School Project
 
 ## ⚡ Fun Fact
 
