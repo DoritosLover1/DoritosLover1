@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I'm a Computer Engineering student at Istanbul University-Cerrahpaşa with a strong interest in software development, backend systems, and game development.
+I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a strong interest in software development, backend systems, and game development.
 
 ## 🚀 About Me
 
-* 🎓 Computer Engineering student at Istanbul University-Cerrahpaşa
+* 🎓 Computer Engineer, Istanbul University-Cerrahpaşa graduate
 * 💻 Passionate about software engineering and system design
 * 🌐 Building full-stack web applications
 * 🎮 Interested in game development and interactive software
