@@ -33,6 +33,9 @@ I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a 
 * Tailwind
 * Git & GitHub
 * AWS
+* IIS
+* gRPC
+* DevOps (Some tools and softwares)
 * Docker
 * Kubernetes
 
