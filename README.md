@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Engineer+%40+Istanbul+University-Cerrahpa%C5%9Fa;Backend+%26+Full-Stack+Developer;Game+Development+Enthusiast;DevOps+%26+Infrastructure+Explorer;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Computer+Engineer+%40+Istanbul+University-Cerrahpa%C5%9Fa;Backend+%26+Full-Stack+Developer;Game+Development+Enthusiast;DevOps+%26+Infrastructure+Explorer;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 </div>
 
@@ -70,6 +70,7 @@
 
 | Project | Description |
 |---|---|
+| 🏦 **SOAP_BANK** | Multi-service Spring Boot SOAP banking app (account, transaction, api-gateway, React frontend), deployed to Kubernetes with Helm, Prometheus & Grafana |
 | 🛒 **CerrahVINLY** | Shopping webpage project |
 | 🅿️ **ISPARK** | Mobile parking application (school project) |
 | 🔐 **Secure Authentication Apps** | JWT-based auth systems |
