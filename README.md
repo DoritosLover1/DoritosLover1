@@ -57,22 +57,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoritosLover1&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=DoritosLover1&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DoritosLover1&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DoritosLover1/DoritosLover1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ℹ️ Bu snake animasyonunun çalışması için repo'na bir GitHub Action eklemen gerekiyor (aşağıda anlatıyorum).
 
 ---
 
