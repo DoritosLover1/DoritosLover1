@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a strong interest in software development, backend systems, and game development.
+I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a strong interest in software development, backend systems, database administration, middleware systems and game development.
 
 ## 🚀 About Me
 
@@ -38,6 +38,10 @@ I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a 
 * DevOps (Some tools and softwares)
 * Docker
 * Kubernetes
+* IIS
+* Podman
+* RabbitMQ
+* Redis
 
 ## 📌 Projects
 
@@ -47,6 +51,7 @@ I'm a Computer Engineer, graduated from Istanbul University-Cerrahpaşa, with a 
 * Secure Authentication Applications
 * Experimental Game Development Projects
 * ISPARK Mobile Application for School Project
+* CerrahVINLY Shopping Webpage
 
 ## 📜 Certificates
 
